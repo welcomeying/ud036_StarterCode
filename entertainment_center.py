@@ -6,7 +6,7 @@ import fresh_tomatoes
 despicable_me = media.Movie("Despicable Me",
                             "Despicable masters and his Minions",
                             "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Despicable_Me_Poster.jpg/220px-Despicable_Me_Poster.jpg",
-                            "https://www.youtube.com/watch?v=sUkZFetWYY0")
+                            "https://www.youtube.com/watch?v=zzCZ1W_CUoI")
 
 despicable_me_2 = media.Movie("Despicable Me 2",
                               "Second story of despicable masters and his Minions",
